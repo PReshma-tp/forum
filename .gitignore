@@ -56,4 +56,4 @@ VENV/
 Thumbs.db
 
 #db files
-*.db
+*.sqlite3
