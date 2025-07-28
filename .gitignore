@@ -35,8 +35,9 @@ VENV/
 
 # Django static and media files
 /static/
-/staticfiles/
+/forum_project/staticfiles/
 /media/
+**/static/img
 
 # Django migrations
 */migrations/*.py
@@ -56,4 +57,4 @@ VENV/
 Thumbs.db
 
 #db files
-*.db
+*.sqlite3
